@@ -1,5 +1,5 @@
 📈 Regresyon Dersi: Veri Analizi ve Modelleme Projesi 🚀
-Bu repo, İstatistik Bölümü'ndeki regresyon analizi dersi için yaptığım ödevi içermektedir. 🌟 R programlama dili kullanılarak gerçekleştirilen bu kapsamlı veri analizi ve modelleme projesi, kabul tahmini veri seti üzerinde gerçekleştirilen çeşitli analizleri ve ileri düzey model oluşturma süreçlerini kapsamaktadır.
+Bu repo, İstatistik Bölümü'ndeki regresyon analizi dersi için yaptığım ödevi içermektedir. 🌟 R programlama dili kullanılarak gerçekleştirilen bu kapsamlı veri analizi ve modelleme projesi, veri seti üzerinde gerçekleştirilen çeşitli analizleri ve model oluşturma süreçlerini kapsamaktadır.
 
 📊 Projede Neler Var?
 - Veri Temizleme ve Hazırlama: Veri setinin incelenmesi, temizlenmesi ve analize hazır hale getirilmesi aşamaları.
